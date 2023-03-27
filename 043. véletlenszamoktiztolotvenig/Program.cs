@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _043.véletlenszamoktiztolotvenig
+namespace _043.veletlenszamoktiztolotvenig
 {
     class Program
     {
