@@ -1,0 +1,7 @@
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\bin\Debug\_043.véletlenszamoktiztolotvenig.exe.config
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\bin\Debug\_043.véletlenszamoktiztolotvenig.exe
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\bin\Debug\_043.véletlenszamoktiztolotvenig.pdb
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\obj\Debug\043. véletlenszamoktiztolotvenig.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\obj\Debug\043. véletlenszamoktiztolotvenig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\obj\Debug\_043.véletlenszamoktiztolotvenig.exe
+C:\Users\gratt\source\repos\043. véletlenszamoktiztolotvenig\043. véletlenszamoktiztolotvenig\obj\Debug\_043.véletlenszamoktiztolotvenig.pdb
